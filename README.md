@@ -1,4 +1,3 @@
-::: {align="center"}
 # 👋 Hey, I'm Hari
 
 ### **Building Quality. Automating Everything. Exploring AI.**
@@ -113,7 +112,6 @@ selection.
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 ## ⭐ Thanks for visiting!
 
 **Happy Coding! 🚀**
